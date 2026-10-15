@@ -1,18 +1,32 @@
 # 🚀 SkyRocket Customer Service AI Automation
+# Customer Chatbot Analysis
 
-**Netomi AI Automation Engineer - Take-Home Assignment Submission**
+An AI-powered customer support analytics project designed to analyze customer service conversations, discover recurring topics, extract important entities, and evaluate the quality of support responses.
 
-> A production-grade AI automation system for customer service optimization using **Groq LLM**, semantic topic discovery, hybrid entity extraction, and automated response evaluation.
+## Project Overview
 
-## 🌟 Features
+This project explores how NLP and large language models can help teams understand customer conversations, identify common issues, and assess support-response quality.
 
-- **AI-Powered Chat Analysis**: Advanced LLM to analyze customer service conversations
-- **Topic Discovery**: Automatic identification of key discussion topics
-- **Entity Extraction**: Hybrid approach combining rule-based and ML-based extraction
-- **Response Evaluation**: Automated quality scoring of agent responses
-- **Web Interface**: User-friendly dashboard for interaction and analysis
-- **API Endpoints**: RESTful API for integration with other systems
-  <img width="702" height="603" alt="image" src="https://github.com/user-attachments/assets/615b045d-a698-4aa8-a203-eb128e0793a0" />
+## Key Features
+
+- **Topic Discovery:** Identify recurring themes in customer conversations.
+- **Entity Extraction:** Extract useful information from conversations.
+- **Response Evaluation:** Assess support responses using defined quality criteria.
+- **Interactive Dashboard:** Explore conversation analytics through a web interface.
+- **API Integration:** Expose selected functionality through API endpoints.
+
+## Technology Stack
+
+Python, NLP, machine learning, large language models, data processing, and web application development.
+
+## Project Status
+
+Portfolio learning project. Setup instructions, configuration requirements, and verified run commands will be documented as the application is tested locally.
+
+## Credits
+
+This repository is an independently maintained copy of the original project by [avinash7055](https://github.com/avinash7055/Customer_chatbot_analysis). Original work and applicable license terms are acknowledged. Additional modifications will be documented as they are implemented.
+
 
 
 ## 🚀 Quick Start
